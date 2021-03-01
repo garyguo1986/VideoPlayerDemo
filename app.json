@@ -1,0 +1,38 @@
+{
+  "id": "fc5caee9-57a1-417f-9ead-af3811696b3e",
+  "name": "VideoPlayerDemo",
+  "publisher": "Gary Guo",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {        
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "15.6.42646.0"
+    },
+    {
+      "appId": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "publisher": "Microsoft",
+      "name": "Application",
+      "version": "15.6.42646.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70110
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://VideoPlayerDemo.com/help/",
+  "showMyCode": true,
+  "runtime": "4.0"
+}
